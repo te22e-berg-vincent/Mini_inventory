@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
+public class Item {
+   public String name;
+    public float weight;
 
-public class item {
 }

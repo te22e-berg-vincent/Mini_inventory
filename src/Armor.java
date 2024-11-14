@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Armor {
+public class Armor extends Item{
+    public int protection;
 }

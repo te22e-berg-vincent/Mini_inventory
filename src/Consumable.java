@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
-public class Consumable {
+public class Consumable extends Item{
+    public int useMax;
+    public int useCurrent;
 }
